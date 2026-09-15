@@ -1,4 +1,4 @@
-# 🍃 Code Facet Generator
+# 👾 GENGE - Game Engine Node Graph Editor
 
 > **Dynamic facet-based code generator for multiple languages and frameworks.**
 
@@ -49,8 +49,8 @@
     <span style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; margin: 4px; font-size: 14px;">🛠️ 150+ Tools</span>
   </div>
   <div style="margin: 20px 0 0 0;">
-    <a href="https://github.com/qewr1324/code-facet-generator/stargazers">
-      <img src="https://img.shields.io/github/stars/qewr1324/code-facet-generator?style=for-the-badge&color=FFD700" alt="stars" />
+    <a href="https://github.com/qewr1324/genge/stargazers">
+      <img src="https://img.shields.io/github/stars/qewr1324/genge?style=for-the-badge&color=FFD700" alt="stars" />
     </a>
     <a href="LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license" />
@@ -66,51 +66,51 @@
 
 <!-- Image & Icon -->
 <div align="center">
-  <a href="https://github.com/qewr1324/code-facet-generator">
-    <img src="./res/facet-icon-big.png" alt="Code Facet Generator Icon" width="128" height="128" />
+  <a href="https://github.com/qewr1324/genge">
+    <img src="./res/genge-icon-big.png" alt="GENGE Icon" width="128" height="128" />
   </a>
   
   <h3>✨ Generate ready-to-use configuration files instantly ✨</h3>
 
 <!-- Static Badges -->
 
-[![Version](https://img.shields.io/github/v/release/qewr1324/code-facet-generator)](https://github.com/qewr1324/code-facet-generator)
+[![Version](https://img.shields.io/github/v/release/qewr1324/genge)](https://github.com/qewr1324/genge)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-32%20categories-orange.svg)](#supported-languages--frameworks)
 [![Files](https://img.shields.io/badge/facets-327%2B-purple.svg)](#statistics)
 
 <!-- Dynamic GitHub Badges -->
-<!-- [![GitHub release (latest)](https://img.shields.io/github/v/release/qewr1324/code-facet-generator?color=blue&label=latest%20release)](https://github.com/qewr1324/code-facet-generator/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/qewr1324/code-facet-generator?label=last%20release)](https://github.com/qewr1324/code-facet-generator/releases)
-[![GitHub commits since latest release](https://img.shields.io/github/commits-since/qewr1324/code-facet-generator/latest?label=commits%20since%20release)](https://github.com/qewr1324/code-facet-generator/commits/main) -->
+<!-- [![GitHub release (latest)](https://img.shields.io/github/v/release/qewr1324/genge?color=blue&label=latest%20release)](https://github.com/qewr1324/genge/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/qewr1324/genge?label=last%20release)](https://github.com/qewr1324/genge/releases)
+[![GitHub commits since latest release](https://img.shields.io/github/commits-since/qewr1324/genge/latest?label=commits%20since%20release)](https://github.com/qewr1324/genge/commits/main) -->
 
-[![GitHub stars](https://img.shields.io/github/stars/qewr1324/code-facet-generator?style=social)](https://github.com/qewr1324/code-facet-generator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/qewr1324/code-facet-generator?style=social)](https://github.com/qewr1324/code-facet-generator/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/qewr1324/code-facet-generator?style=social)](https://github.com/qewr1324/code-facet-generator/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/qewr1324/genge?style=social)](https://github.com/qewr1324/genge/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/qewr1324/genge?style=social)](https://github.com/qewr1324/genge/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/qewr1324/genge?style=social)](https://github.com/qewr1324/genge/watchers)
 
-<!-- [![GitHub issues](https://img.shields.io/github/issues/qewr1324/code-facet-generator?color=red)](https://github.com/qewr1324/code-facet-generator/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/qewr1324/code-facet-generator?color=blueviolet)](https://github.com/qewr1324/code-facet-generator/pulls)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/qewr1324/code-facet-generator?color=green)](https://github.com/qewr1324/code-facet-generator/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/qewr1324/code-facet-generator?color=brightgreen)](https://github.com/qewr1324/code-facet-generator/pulls?q=is%3Apr+is%3Aclosed)
+<!-- [![GitHub issues](https://img.shields.io/github/issues/qewr1324/genge?color=red)](https://github.com/qewr1324/genge/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/qewr1324/genge?color=blueviolet)](https://github.com/qewr1324/genge/pulls)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/qewr1324/genge?color=green)](https://github.com/qewr1324/genge/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/qewr1324/genge?color=brightgreen)](https://github.com/qewr1324/genge/pulls?q=is%3Apr+is%3Aclosed)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/qewr1324/code-facet-generator?color=orange)](https://github.com/qewr1324/code-facet-generator/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/qewr1324/code-facet-generator?color=blue)](https://github.com/qewr1324/code-facet-generator/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qewr1324/code-facet-generator?color=yellowgreen)](https://github.com/qewr1324/code-facet-generator/graphs/commit-activity)
-[![GitHub top language](https://img.shields.io/github/languages/top/qewr1324/code-facet-generator?color=purple)](https://github.com/qewr1324/code-facet-generator) -->
+[![GitHub contributors](https://img.shields.io/github/contributors/qewr1324/genge?color=orange)](https://github.com/qewr1324/genge/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/qewr1324/genge?color=blue)](https://github.com/qewr1324/genge/commits/main)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qewr1324/genge?color=yellowgreen)](https://github.com/qewr1324/genge/graphs/commit-activity)
+[![GitHub top language](https://img.shields.io/github/languages/top/qewr1324/genge?color=purple)](https://github.com/qewr1324/genge) -->
 
-[![GitHub code size](https://img.shields.io/github/languages/code-size/qewr1324/code-facet-generator?color=lightgrey)](https://github.com/qewr1324/code-facet-generator)
-[![GitHub repo size](https://img.shields.io/github/repo-size/qewr1324/code-facet-generator?color=lightgrey)](https://github.com/qewr1324/code-facet-generator)
-[![GitHub file count](https://img.shields.io/github/directory-file-count/qewr1324/code-facet-generator?color=lightgrey)](https://github.com/qewr1324/code-facet-generator)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/qewr1324/genge?color=lightgrey)](https://github.com/qewr1324/genge)
+[![GitHub repo size](https://img.shields.io/github/repo-size/qewr1324/genge?color=lightgrey)](https://github.com/qewr1324/genge)
+[![GitHub file count](https://img.shields.io/github/directory-file-count/qewr1324/genge?color=lightgrey)](https://github.com/qewr1324/genge)
 
 <!-- CI/CD Badges -->
-<!-- [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/qewr1324/code-facet-generator/main.yml?label=build)](https://github.com/qewr1324/code-facet-generator/actions)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/qewr1324/code-facet-generator/test.yml?label=tests)](https://github.com/qewr1324/code-facet-generator/actions) -->
+<!-- [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/qewr1324/genge/main.yml?label=build)](https://github.com/qewr1324/genge/actions)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/qewr1324/genge/test.yml?label=tests)](https://github.com/qewr1324/genge/actions) -->
 
 <!-- Marketplace Badges -->
-<!-- [![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/qewr1324.code-facet-generator?label=vs%20code)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
-[![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/qewr1324.code-facet-generator?label=installs)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
-[![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/qewr1324.code-facet-generator?label=downloads)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
-[![VS Code Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/qewr1324.code-facet-generator?label=rating)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator) -->
+<!-- [![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/qewr1324.genge?label=vs%20code)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
+[![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/qewr1324.genge?label=installs)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
+[![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/qewr1324.genge?label=downloads)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
+[![VS Code Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/qewr1324.genge?label=rating)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge) -->
 
 <!-- Social -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-![Demo](https://github.com/qewr1324/code-facet-generator/raw/main/res/review.gif)
+![Demo](https://github.com/qewr1324/genge/raw/main/res/review.gif)
 
 </div>
 
@@ -160,17 +160,17 @@ No more googling "spring boot application.yml example" or "next.config.js boiler
 
 <!-- Marketplace Badges -->
 
-[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/qewr1324.code-facet-generator?label=vs%20code)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
-[![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/qewr1324.code-facet-generator?label=installs)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
-[![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/qewr1324.code-facet-generator?label=downloads)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
-[![VS Code Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/qewr1324.code-facet-generator?label=rating)](https://marketplace.visualstudio.com/items?itemName=qewr1324.code-facet-generator)
+[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/qewr1324.genge?label=vs%20code)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
+[![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/qewr1324.genge?label=installs)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
+[![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/qewr1324.genge?label=downloads)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
+[![VS Code Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/qewr1324.genge?label=rating)](https://marketplace.visualstudio.com/items?itemName=qewr1324.genge)
 
 ---
 
 ## 📁 Project Structure
 
 ```bash
-code-facet-generator/
+genge/
 ├── 📄 package.json                  # VS Code extension manifest
 ├── 📄 tsconfig.json                 # TypeScript configuration
 ├── 📄 info.json                     # All facet definitions (32 categories, 327+ facets)
@@ -390,10 +390,10 @@ code-facet-generator/
 
 ```bash
 # Clone
-git clone https://github.com/user/code-facet-generator.git
+git clone https://github.com/user/genge.git
 
 # Install dependencies
-cd code-facet-generator
+cd genge
 npm install
 
 # Build
@@ -439,15 +439,15 @@ export function generate(params: any): string {
 
 # 🤝 Contributing
 
-[![GitHub issues](https://img.shields.io/github/issues/qewr1324/code-facet-generator?color=red)](https://github.com/qewr1324/code-facet-generator/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/qewr1324/code-facet-generator?color=blueviolet)](https://github.com/qewr1324/code-facet-generator/pulls)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/qewr1324/code-facet-generator?color=green)](https://github.com/qewr1324/code-facet-generator/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/qewr1324/code-facet-generator?color=brightgreen)](https://github.com/qewr1324/code-facet-generator/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/qewr1324/genge?color=red)](https://github.com/qewr1324/genge/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/qewr1324/genge?color=blueviolet)](https://github.com/qewr1324/genge/pulls)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/qewr1324/genge?color=green)](https://github.com/qewr1324/genge/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/qewr1324/genge?color=brightgreen)](https://github.com/qewr1324/genge/pulls?q=is%3Apr+is%3Aclosed)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/qewr1324/code-facet-generator?color=orange)](https://github.com/qewr1324/code-facet-generator/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/qewr1324/code-facet-generator?color=blue)](https://github.com/qewr1324/code-facet-generator/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qewr1324/code-facet-generator?color=yellowgreen)](https://github.com/qewr1324/code-facet-generator/graphs/commit-activity)
-[![GitHub top language](https://img.shields.io/github/languages/top/qewr1324/code-facet-generator?color=purple)](https://github.com/qewr1324/code-facet-generator)
+[![GitHub contributors](https://img.shields.io/github/contributors/qewr1324/genge?color=orange)](https://github.com/qewr1324/genge/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/qewr1324/genge?color=blue)](https://github.com/qewr1324/genge/commits/main)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qewr1324/genge?color=yellowgreen)](https://github.com/qewr1324/genge/graphs/commit-activity)
+[![GitHub top language](https://img.shields.io/github/languages/top/qewr1324/genge?color=purple)](https://github.com/qewr1324/genge)
 
 ### Contributions are welcome! Whether it's:
 
